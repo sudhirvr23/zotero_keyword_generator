@@ -15,7 +15,7 @@ var KeywordGenerator = {
     geminiApiKey: "",
     openaiApiKey: "",
     provider: "gemini",            // "gemini" | "chatgpt"
-    geminiModel: "gemini-1.5-flash",
+    geminiModel: "gemini-2.5-flash",
     chatgptModel: "gpt-4o-mini",
     maxKeywords: 10,
     PAUSE_MS: 900,
