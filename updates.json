@@ -3,7 +3,7 @@
     "keyword-generator@sudhirvr23.com": {
       "updates": [
         {
-          "version": "1.0.0",
+          "version": "2.0.4",
           "update_link": "https://github.com/sudhirvr23/zotero-keyword-generator/releases/latest/download/keyword-generator.xpi",
           "applications": {
             "zotero": {

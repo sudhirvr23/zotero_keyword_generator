@@ -1,6 +1,6 @@
 {
   "name": "zotero-keyword-generator",
-  "version": "1.0.0",
+  "version": "2.0.4",
   "description": "A Zotero plugin to generate keywords for PDFs using AI",
   "main": "bootstrap.js",
   "scripts": {
